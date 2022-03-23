@@ -42,3 +42,11 @@ Default: `false`
 Type: `boolean`
 
 Skip formatting files.
+
+### skipPackageJson
+
+Default: `false`
+
+Type: `boolean`
+
+Skip updating package.json.
